@@ -7,6 +7,6 @@
 # All rights reserved - Do Not Redistribute
 #
 
-package "git"
+package node[:git][:package]
 
 log "Well that was easy"
